@@ -1,0 +1,12 @@
+{
+    "id": "4455",
+    "parent_exercise_id": null,
+    "name": "Files",
+    "slug": "python__dataTypes_md",
+    "sequence_num": 200,
+    "review_type": "manual",
+    "solution": null,
+    "content": "[\"{\\\"type\\\":\\\"markdown\\\",\\\"value\\\":\\\"dataTypes_key1[dataTypes_key2](https://saral.navgurukul.org/course/83)\\\\n\\\\n\\\\ndataTypes_key3\\\\n\\\"}\"]",
+    "submission_type": null,
+    "github_link": "https://github.com/navgurukul/newton/tree/master/python/dataTypes.md"
+}
